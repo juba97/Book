@@ -1,0 +1,1 @@
+- [Github Wiki](https://github.com/kogoia/functional-js-samples/wiki)
