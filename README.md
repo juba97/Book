@@ -8,3 +8,8 @@
 # Algorithms:
 * [Algorithms](https://www.youtube.com/playlist?list=PLJTvi6Vq8-z9dFHYbvY5EVTNfgVjAUGWK) - Youtube.com
 * [Grokking Algorithms](https://g.co/kgs/mJZWhZ) -   by Aditya Bhargava
+
+# Want to learn
+* [EDULINQ](https://codeblog.jonskeet.uk/category/edulinq/) - Edulinq series into e-books
+
+
