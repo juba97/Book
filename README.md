@@ -1,6 +1,5 @@
 # C#:
 * [C# Complete Reference](https://g.co/kgs/PdGfJK) - by Herbert Schildt 
-* [Object Oriented Programming Using C#](https://www.c-sharpcorner.com/UploadFile/EBooks/09272013041548AM/PdfFile/Introduction%20to%20C-Sharp.pdf) - by Naveed Zaman
 * [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - Youtube.com
 
 # Javascript:
